@@ -30,6 +30,8 @@ The dataset contains the following key variables:
 ### 1. Scatter Plot: Municipal Revenue vs Expenditure
 **File**: `plots/scatter_plot.png`
 
+![Scatter Plot](plots/scatter_plot.png)
+
 **Observations**:
 - Strong positive correlation between revenue and expenditure
 - Most data points cluster around the 400,000-450,000 range for both metrics
@@ -41,6 +43,8 @@ The dataset contains the following key variables:
 ### 2. Box Plot: Distribution of Financial Metrics
 **File**: `plots/box_plot.png`
 
+![Box Plot](plots/box_plot.png)
+
 **Observations**:
 - **Revenue Distribution**: Median around 400,000 with relatively tight quartile ranges
 - **Expenditure Distribution**: Similar median to revenue but with slightly wider spread
@@ -51,6 +55,8 @@ The dataset contains the following key variables:
 
 ### 3. Bar Plot: Revenue and Expenditure by Year
 **File**: `plots/bar_plot.png`
+
+![Bar Plot](plots/bar_plot.png)
 
 **Observations**:
 - **2014-2015**: Lowest financial activity, positive net profit
@@ -64,6 +70,8 @@ The dataset contains the following key variables:
 
 ### 4. Line Plot: Net Profit Trend Over Years
 **File**: `plots/line_plot.png`
+
+![Line Plot](plots/line_plot.png)
 
 **Observations**:
 - **2014-15**: Modest positive profit (13,034)
