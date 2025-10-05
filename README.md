@@ -1,7 +1,6 @@
 # Pune Municipal Financial Health Analysis (2014-2020)
 
-## Disclamer
-**Github Copilot** was used in writing the plotting code and constructing the README file. 
+
 
 ## Overview
 This project analyzes the financial health of Pune Municipal Corporation from 2014 to 2020 using comprehensive data visualization techniques. The analysis focuses on municipal revenue, expenditure patterns, and net profit trends over a seven-year period.
@@ -135,6 +134,9 @@ To reproduce this analysis:
 1. Ensure Python environment with required libraries (pandas, matplotlib)
 2. Run all cells in `make_plots.ipynb`
 3. Plots will be automatically generated and saved in the `plots/` directory
+
+## Disclamer
+**Github Copilot** was used in writing the plotting code and constructing the README file. 
 
 ## Citations and References
 1. Government of India Open Data Portal. (2022). Financial Health of Pune Municipal Corporation. Retrieved from https://www.data.gov.in/catalog/financial-health-pune
